@@ -24,10 +24,6 @@ This is a Full stack Pizza Delivery Web App .
 
 Mongo DB , React js , Express js , Node js, Redux, Axios , Chakra UI , Ant Design
 
-## Give it a try and have fun-
-
-https://pizza-delivery-app-e1273.web.app/
-
 ## Demo 
 
 ![image](https://github.com/Sakshamjain98/OASIS_INFOBYTE_Pizza_Ordering_App/assets/137368917/b12bf9cb-74c2-4cc8-81ce-33a8e1c1ee57)
